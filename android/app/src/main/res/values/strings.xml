@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">sanProject</string>
+    <string name="appCenterCCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
 </resources>
