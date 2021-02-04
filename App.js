@@ -47,6 +47,7 @@ export default class App extends React.Component
        <Button title="Calculate Information" onPress={() => Analytics.trackEvent('calculate_inflation')}>
 
        </Button>
+      <Text>Footer</Text>
       </View>
      </>
    );
