@@ -43,6 +43,7 @@ export default class App extends React.Component
      return (
      <>
      <View title="Crash">
+       <Text>new feature realease</Text>
        <Button title="Calculate Information" onPress={() => Analytics.trackEvent('calculate_inflation')}>
 
        </Button>
