@@ -43,9 +43,9 @@ export default class App extends React.Component
      return (
      <>
      <View title="Crash">
-       <Text>Welcome boi</Text>
-      <Text>SanProject </Text>
-      <Button onPress={() => Analytics.trackEvent('calculate_inflation')}>
+       <Text>new feature realease</Text>
+       <Button title="Calculate Information" onPress={() => Analytics.trackEvent('calculate_inflation')}>
+
        </Button>
       <Text>Footer</Text>
       </View>
